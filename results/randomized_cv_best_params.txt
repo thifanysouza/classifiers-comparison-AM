@@ -1,0 +1,5 @@
+Modelo DTR obteve melhores parâmetros {'criterion': 'gini', 'max_depth': 7, 'max_features': 'log2', 'min_samples_leaf': 4, 'min_samples_split': 2, 'splitter': 'best'} e melhor score 0.5219313081068278 
+Modelo KNN obteve melhores parâmetros {'algorithm': 'brute', 'metric': 'euclidean', 'n_neighbors': 6, 'weights': 'distance'} e melhor score 0.6513771540238052 
+Modelo SVC obteve melhores parâmetros {'kernel': 'linear', 'gamma': 5, 'C': 20} e melhor score 0.5333233848522532 
+Modelo LVQ obteve melhores parâmetros {'n_codebooks': 10, 'lrate': 0.01, 'epochs': 100} e melhor score 0.4843778054124475 
+Modelo MLP obteve melhores parâmetros {'solver': 'lbfgs', 'random_state': 0, 'max_iter': 150, 'learning_rate_init': 0.1, 'hidden_layer_sizes': (15, 15), 'activation': 'logistic'} e melhor score 0.5645702611476284 
